@@ -11,6 +11,7 @@ brew 'php@8.0'
 brew 'php@7.4'
 brew 'composer'
 brew 'imagemagick'
+brew 'pkg-config'
 
 # Apps
 cask '1password'
