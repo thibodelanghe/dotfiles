@@ -28,7 +28,7 @@ brew bundle --file $DOTFILES/Brewfile
 pecl install imagick redis swoole
 
 # Install global Composer packages
-/usr/local/bin/composer global require laravel/installer laravel/valet beyondcode/expose
+/usr/local/bin/composer global require laravel/installer laravel/valet beyondcode/expose tightenco/takeout
 
 # Install Laravel Valet
 $HOME/.composer/vendor/bin/valet install
