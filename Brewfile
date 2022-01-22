@@ -12,6 +12,8 @@ brew 'php@7.4'
 brew 'composer'
 brew 'imagemagick'
 brew 'pkg-config'
+brew 'node'
+brew 'nvm'
 
 # Apps
 cask '1password'
