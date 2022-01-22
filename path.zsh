@@ -9,3 +9,6 @@ export PATH="$HOME/.node/bin:$PATH"
 
 # Use project specific binaries before global ones
 export PATH="node_modules/.bin:vendor/bin:$PATH"
+
+# PHPstorm
+export PHPSTORMLOCATION='/Users/thibodelanghe/Library/Application Support/JetBrains/Toolbox/apps/PhpStorm/ch-0/213.6461.83/PhpStorm.app'

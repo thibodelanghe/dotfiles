@@ -1,7 +1,7 @@
 # Shortcuts
 alias reloadshell="source $HOME/.zshrc"
 alias reloaddns="dscacheutil -flushcache && sudo killall -HUP mDNSResponder"
-alias phpstorm='open -a /Applications/PhpStorm.app "`pwd`"'
+alias phpstorm='open -a $PHPSTORMLOCATION "`pwd`"'
 alias c="clear"
 
 # Directories
