@@ -33,8 +33,11 @@ pecl install imagick redis swoole
 # Install Laravel Valet
 $HOME/.composer/vendor/bin/valet install
 
-# Create a Sites directory
+# Create a Sites directory $ park it
 mkdir $HOME/sites
+
+# Install bump
+npm install -g @jsdevtools/version-bump-prompt
 
 # Set macOS preferences - we will run this last because this will reload the shell
 source $DOTFILES/.macos
