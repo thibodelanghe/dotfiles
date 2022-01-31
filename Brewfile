@@ -14,6 +14,7 @@ brew 'imagemagick'
 brew 'pkg-config'
 brew 'node'
 brew 'nvm'
+brew 'gnupg'
 
 # Apps
 cask '1password'
