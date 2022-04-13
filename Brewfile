@@ -15,6 +15,7 @@ brew 'pkg-config'
 brew 'node'
 brew 'nvm'
 brew 'gnupg'
+brew 'mysql-client'
 
 # Apps
 cask '1password'
