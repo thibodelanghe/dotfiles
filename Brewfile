@@ -16,6 +16,7 @@ brew 'node'
 brew 'nvm'
 brew 'gnupg'
 brew 'mysql-client'
+brew 'jmeter'
 
 # Apps
 cask '1password'
@@ -33,4 +34,4 @@ cask 'typora'
 cask 'iterm2'
 cask 'mysqlworkbench'
 cask 'fig'
-cask 'graphql-playground'
+cask '1password/tap/1password-cli'
